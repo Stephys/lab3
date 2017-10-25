@@ -139,6 +139,9 @@ The *Birmingham Edgbaston* constituency is similar to the majority of constituen
 ### Stefana
 
  593             Walsall North
+ ![Stefana's graph of West Midlands constituencies](StefanaS-plot.svg)
+ The graph shows the relationship between the percentage of the population with a degree in each consituency in West Midlands and the estimated percentage of population that voted leave. As expected, there is a strong relationship between these two variables, where a higher percentage of population having a degree is correlated with a lower percentage of people voting leave. Also, there are some points that are on the outskirts, having both a low percentage of population with a degree and a low percentage of population not turning up to the elections. 
+  Focusing on the constituency Walsall North we can see that out of all the constituencies in the West Midlands ithas the highest percentage of population voting leave(well above 70%) and, in agreement with the relationship stated before, the second lowest percentage of population with a degree(under 5%).
 
 ### Tina
 
